@@ -118,3 +118,6 @@ export NVM_DIR="$HOME/.nvm"
 
 #sublime text
 export PATH="/Applications/Sublime Text.app/Contents/SharedSupport/bin:$PATH"
+
+#news run
+alias news='python3 /Users/ashenperera/Codebase/scripts/feed/news_run.py'
